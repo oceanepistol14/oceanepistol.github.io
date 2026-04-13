@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Mon Profil</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -19,6 +20,13 @@
 
     </div>
   </div>
-
+ <div class="entreprise">
+  <img src="loreal-logo.png" alt="Logo L'Oréal" class="logo-entreprise">
+  
+  <p class="phrase-entreprise">
+    Je candidate chez <strong>L'Oréal</strong> car je suis passionné par 
+    l'innovation digitale et les technologies qui transforment l'expérience utilisateur.
+  </p>
+</div>
 </body>
 </html>
