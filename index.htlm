@@ -1,32 +1,37 @@
-<!DOCTYPE html >
-<html lang="fr" >
+<!DOCTYPE html>
+<html lang="fr">
 <head>
   <meta charset="UTF-8">
   <title>Mon Profil</title>
+
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
   <div class="carte">
+
     <img src="photo.jpg" alt="Ma photo" class="avatar"> 
+
     <h1>Ton Prénom</h1>
-    <p>Etudiant BTS SIO . Futur développeur</p>
+    <p>Étudiant BTS SIO · Futur développeur</p>
 
     <div class="liens">
-     <a href="https://github.com/tonpseudo">GitHub</a>
-     <a href="https://linkedin.com/in/tonprofil">LinkedIn</a>
-     <a href="mailto:tonemail@.com">M'écrire</a>
-
+      <a href="https://github.com/tonpseudo">GitHub</a>
+      <a href="https://linkedin.com/in/tonprofil">LinkedIn</a>
+      <a href="mailto:tonemail@gmail.com">M'écrire</a>
     </div>
+
+    <div class="entreprise">
+      <img src="loreal-logo.png" alt="Logo L'Oréal" class="logo-entreprise">
+      
+      <p class="phrase-entreprise">
+        Je candidate chez <strong>L'Oréal</strong> pour contribuer à des solutions digitales innovantes.
+      </p>
+    </div>
+
   </div>
- <div class="entreprise">
-  <img src="loreal-logo.png" alt="Logo L'Oréal" class="logo-entreprise">
-  
-  <p class="phrase-entreprise">
-    Je candidate chez <strong>L'Oréal</strong> car je suis passionné par 
-    l'innovation digitale et les technologies qui transforment l'expérience utilisateur.
-  </p>
-</div>
+
 </body>
 </html>
