@@ -2,8 +2,8 @@
    body {
   background: #e3bc9a;
   display: flex; 
-  justify-content: left;
-  align-items: left;
+  justify-content: center;
+  align-items: center;
   min-height: 100vh;
   margin: 0;
   font-family: 'Poppins', sans-serif;
