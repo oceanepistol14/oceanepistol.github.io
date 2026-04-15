@@ -45,7 +45,7 @@ p {
 }
 
 .liens a {
-  background: read;
+  background: red;
   color: white;
   padding: 0.5rem 1rem;
   border-radius: 10px;
