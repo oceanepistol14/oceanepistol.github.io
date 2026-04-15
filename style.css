@@ -10,7 +10,7 @@
 }
 
 .carte {
-  text-align: left;
+  text-align: center;
   color: white;
   background: #e3bc9a;
   padding: 2rem;
@@ -46,7 +46,7 @@ p {
 }
 
 .liens a {
-  background: black;
+  background: white;
   color: #d4af37;
   padding: 0.5rem 1rem;
   border-radius: 10px;
