@@ -11,7 +11,7 @@
 
 .layout {
   display: flex;
-  grid-template-columns: 1fr 4fr 1fr;
+  grid-template-columns: 4fr 4fr 4fr;
   width: 100%;
   min-height: 200vh;
   align-items: center;
