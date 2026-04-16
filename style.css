@@ -27,7 +27,7 @@
 
 
    .phrase-entreprise {
-  font-size: 0.85rem;
+  font-size: 1rem;
   color: #000000;
   font-style: italic;
 }
@@ -45,7 +45,7 @@
   border-radius: 20px;
   max-width: 100px;
   width: 100%;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.0);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.4);
 }
 
 .avatar {
@@ -63,13 +63,14 @@ color:#d4af37;
 }
 h1 { 
   font-size: 2rem;
-  margin: 0.5rem 0; 
+  margin: 1rem; 
 color:#d4af37;
 }
 
 p {
   color: #000000;
   margin-bottom: 4rem;
+   font-style: italic;
 }
 
 .liens {
@@ -82,7 +83,7 @@ p {
   background: white;
   color: #d4af37;
   padding: 0.5rem 2rem;
-  border-radius: 10px;
+  border-radius: 20px;
   text-decoration: none;
   font-size: 1rem;
   transition: all 0.3s ease;
