@@ -5,6 +5,7 @@
   justify-content: center;
   align-items: center;
   min-height: 90vh;
+  max-width: 200px
   margin: 2;
   font-family: 'Poppins', sans-serif;
 }
@@ -13,7 +14,7 @@
   display: flex;
   grid-template-columns: 4fr 4fr 4fr;
   width: 100%;
-  min-height: 100vh;
+  min-height: 90vh;
   align-items: center;
   gap: 1px;
   padding: 0rem;
