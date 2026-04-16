@@ -10,10 +10,9 @@
 }
 
 .header {
-   display: flex;
-   align-items: gauche;
-   justify-content: gauche;
    position: absolute;
+   top: 20px;
+   left: 20PX;
 }
 
    .layout {
