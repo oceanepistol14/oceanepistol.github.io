@@ -13,10 +13,10 @@
   display: flex;
   grid-template-columns: 1fr 4fr 1fr;
   width: 100%;
-  min-height: 100vh;
+  min-height: 50vh;
   align-items: center;
-  gap: 2px;
-  padding: 2rem;
+  gap: 1px;
+  padding: 0,5rem;
 }
 
 .header {
