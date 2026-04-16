@@ -95,5 +95,10 @@ p {
   left:50px
   width:60px 
 }
-
+ .layout {
+   display: flex;
+   align-items: gauche;
+   justify-content: gauche;
+   position: relative;
+ }
 
