@@ -23,7 +23,7 @@
   border-radius: 20px;
   max-width: 1000px;
   width: 10000%;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.5);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.0);
 }
 
 .avatar {
