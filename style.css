@@ -95,8 +95,10 @@ p {
   left:50px
   width:60px 
 }
- .layout {
+ 
+.layout {
    display: flex;
+   flex-direction: row;
    align-items: droite;
    justify-content: flex-end;
    position: absolute;
