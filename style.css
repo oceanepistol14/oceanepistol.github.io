@@ -97,8 +97,8 @@ p {
 }
  .layout {
    display: flex;
-   align-items: gauche;
-   justify-content: gauche;
+   align-items: droite;
+   justify-content: flex-end;
    position: relative;
  }
 
