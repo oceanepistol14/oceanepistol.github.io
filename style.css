@@ -1,6 +1,6 @@
 
    body {
-  background: #e3bc9a;
+  background: #b7aeb6;
   display: flex; 
   justify-content: center;
   align-items: center;
@@ -82,7 +82,11 @@ p {
   left:20px
   width:60px 
 }
-
+.layout {
+   display: flex;
+   align-items: droite;
+   justify-content: droite;
+   position: relative;
 .phrase-entreprise {
   font-size: 0.85rem;
   color: #ccc;
