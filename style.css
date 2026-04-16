@@ -12,7 +12,7 @@
 .layout {
   display: flex;
   grid-template-columns: 1fr 4fr 1fr;
-  width: 200%;
+  width: 100%;
   min-height: 100vh;
   align-items: center;
   gap: 2px;
