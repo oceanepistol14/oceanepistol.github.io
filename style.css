@@ -9,11 +9,11 @@
   font-family: 'Poppins', sans-serif;
 }
 
-.layout {
+.header {
    display: flex;
    align-items: gauche;
    justify-content: gauche;
-   position: relative;
+   position: absolute;
 }
 
    .layout {
