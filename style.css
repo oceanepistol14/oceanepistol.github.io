@@ -16,14 +16,6 @@
    position: relative;
 }
 
-
-.layout {
-   display: flex;
-   align-items: center;
-   justify-content: flex-end;
-   position: absolute;
-   right:20px
-   width:60px 
       
    .phrase-entreprise {
   font-size: 0.85rem;
@@ -99,3 +91,15 @@ p {
   left:20px
   width:60px 
 }
+
+.layout {
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+   position: relative;
+   right:20px
+   width:60px 
+
+}
+
+
