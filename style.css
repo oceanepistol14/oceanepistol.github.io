@@ -15,6 +15,23 @@
    justify-content: gauche;
    position: relative;
 }
+
+
+.layout {
+   display: flex;
+   align-items: center;
+   justify-content: flex-end;
+   position: relative;
+   right:20px
+   width:60px 
+      
+   .phrase-entreprise {
+  font-size: 0.85rem;
+  color: #ccc;
+  font-style: italic;
+}
+
+
 .carte {
   text-align: center;
   color: white;
@@ -54,7 +71,7 @@ p {
 .liens a {
   background: white;
   color: #d4af37;
-  padding: 0.2rem 0,5rem;
+  padding: 0.5rem 2rem;
   border-radius: 10px;
   text-decoration: none;
   font-size: 1rem;
@@ -81,15 +98,4 @@ p {
   position: absolute;
   left:20px
   width:60px 
-}
-.layout {
-   display: flex;
-   align-items: center;
-   justify-content: flex-end;
-   position: relative;
-
-   .phrase-entreprise {
-  font-size: 0.85rem;
-  color: #ccc;
-  font-style: italic;
 }
