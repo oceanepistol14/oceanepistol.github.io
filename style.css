@@ -33,7 +33,7 @@
 }
 
 .col {
-  display: grid;
+  display: flex;
   justify-content: center;
 }
 
