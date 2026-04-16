@@ -96,14 +96,4 @@ p {
   width:60px 
 }
 
-.layout {
-   display: flex;
-   align-items: center;
-   justify-content: flex-end;
-   position: relative;
-   right:20px
-   width:60px 
-
-}
-
 
