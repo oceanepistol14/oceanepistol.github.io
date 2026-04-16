@@ -85,7 +85,7 @@ p {
 .layout {
    display: flex;
    align-items: droite;
-   justify-content: droite;
+   justify-content: flex-end;
    position: relative;
 
    .phrase-entreprise {
