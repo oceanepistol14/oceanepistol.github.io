@@ -10,7 +10,7 @@
 }
 
 .layout {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr 4fr 1fr;
   width: 200%;
   min-height: 100vh;
