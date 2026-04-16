@@ -16,7 +16,7 @@
   min-height: 100vh;
   align-items: center;
   gap: 1px;
-  padding: 0.9rem;
+  padding: 0rem;
 }
 
 .header {
@@ -41,7 +41,7 @@
   text-align: center;
   color: white;
   background: #ebdfdf;
-  padding: 1rem;
+  padding: 4rem;
   border-radius: 10px;
   max-width: 200px;
   width: 200%;
