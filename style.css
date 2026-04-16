@@ -1,6 +1,6 @@
 
    body {
-  background: #beb5bd;
+  background: #ebdfdf;
   display: flex; 
   justify-content: center;
   align-items: center;
@@ -18,7 +18,7 @@
 .carte {
   text-align: center;
   color: white;
-  background: #beb5bd;
+  background: #ebdfdf;
   padding: 2rem;
   border-radius: 20px;
   max-width: 1000px;
@@ -84,9 +84,9 @@ p {
 }
 .layout {
    display: flex;
-   align-items: droite;
+   align-items: center;
    justify-content: flex-end;
-   position: absolute;
+   position: relative;
 
    .phrase-entreprise {
   font-size: 0.85rem;
