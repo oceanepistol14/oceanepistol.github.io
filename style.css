@@ -15,12 +15,7 @@
    left: 20PX;
 }
 
-   .layout {
-   display: flex;
-   align-items: gauche;
-   justify-content: gauche;
-   position: relative;
-}   
+
    .phrase-entreprise {
   font-size: 0.85rem;
   color: #ccc;
@@ -108,4 +103,9 @@ p {
    justify-content: flex-end;
    position: absolute;
  }
-
+   .layout {
+   display: flex;
+   align-items: gauche;
+   justify-content: gauche;
+   position: relative;
+}   
