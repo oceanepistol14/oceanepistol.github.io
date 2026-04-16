@@ -87,7 +87,8 @@ p {
    align-items: droite;
    justify-content: droite;
    position: relative;
-.phrase-entreprise {
+
+   .phrase-entreprise {
   font-size: 0.85rem;
   color: #ccc;
   font-style: italic;
