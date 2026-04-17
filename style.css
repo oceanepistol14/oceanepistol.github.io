@@ -1,9 +1,6 @@
 
    body {
   background: #ebdfdf;
-  display: flex; 
-  justify-content: center;
-  align-items: center;
   min-height: 90vh;
   max-width: 200px;
   margin: 0;
