@@ -2,7 +2,6 @@
    body {
   background: #ebdfdf;
   min-height: 90vh;
-  max-width: 200px;
   margin: 0;
   font-family: 'Poppins', sans-serif;
 }
@@ -14,7 +13,7 @@
   min-height: 100vh;
   align-items: center;
   gap: 30px;
-  padding: 0 50PX;
+  padding: 0 50px;
 }
 
 .logo-entreprise {
@@ -29,12 +28,12 @@
 .header {
    position: relative;
    top: 20px;
-   left: 20PX;
+   left: 20px;
 }
 
 .gauche {
    text-align: center;
-   max-width: 300PX;
+   max-width: 300px;
 }
    
    .phrase-entreprise {
@@ -47,7 +46,7 @@
   text-align: center;
   color: white;
   background: #ebdfdf;
-  padding: 30PX;
+  padding: 30px;
   border-radius: 20px;
   max-width: 200px;
   width: 100%;
