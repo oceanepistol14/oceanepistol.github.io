@@ -63,7 +63,9 @@
   margin-bottom: 1rem;
   object-fit: cover;
 }
-
+.nom{ 
+  font-size: 4rem
+  font-weight: 700;
 h1 { 
   font-size: 2rem;
   margin: 0.5rem 0; 
