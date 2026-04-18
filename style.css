@@ -66,6 +66,7 @@ h1 {
 }
 
 .droite a {
+  display: block;
   background: white;
   color: #d4af37;
   padding: 0.5rem 2rem;
