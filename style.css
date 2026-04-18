@@ -26,11 +26,12 @@ body {
 .carte {
   text-align: center;
   background: #CFC0A7;
-  padding: 30px;
+  padding: 50px;
   border-radius: 20px;
   max-width: 200px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.4);
   margin: 40px;
+  min-height: 300px;
 }
 
 .avatar {
