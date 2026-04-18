@@ -74,6 +74,9 @@ h1 {
   text-decoration: none;
   flex-direction: column;
   transition: 0.3s;
+  gap: 15px;
+
+  
 }
 
 .droite a:hover {
