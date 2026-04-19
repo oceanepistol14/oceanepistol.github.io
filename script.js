@@ -1,6 +1,6 @@
 window.onload = function() {
 
-const phrase = "Passionnée par le digital et la tech, je souhaite rejoindre L'Oréal pour contribuer à des projets innovants dès ma première année de BTS SIO.";
+const phrase = "Passionnée par le digital et la tech, je souhaite rejoindre <strong>L'Oréal</strong> pour contribuer à des projets innovants dès ma première année de BTS SIO.";
 
 function ecrireLettre(element, texte, callback) {
   let i = 0;
