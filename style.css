@@ -38,7 +38,7 @@ body {
   animation: apparition 0.6s ease forwards;
 }
 .gauche {
-  font-size: 4rem;
+  font-size: 2rem;
   animation: apparition 0.6s ease 0.2s forwards;
 }
 
@@ -46,7 +46,7 @@ body {
   text-align: center;
   background: #DCC3E3;
   padding: 30px;
-  border-radius: 25px;
+  border-radius: 50px;
   max-width: 500px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.6);
   margin: 40px;
