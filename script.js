@@ -25,6 +25,7 @@ function ecrireLettre(element, texte, callback) {
 
  // 1. Logo
  afficher(logo, () => {
+   // 2. Phrase lettre par lettre
   phraseEl.style.opacity = 0;
   phraseEl.classList.remove('cache');
   ecrireLettre(phraseEl, phrase, () => {
