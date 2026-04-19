@@ -1,3 +1,5 @@
+window.onload = function() {
+
 const phrase = "Passionnée par le digital et la tech, je souhaite rejoindre L'Oréal pour contribuer à des projets innovants dès ma première année de BTS SIO.";
 
 function ecrireLettre(element, texte, callback) {
@@ -34,3 +36,5 @@ afficher(logo, () => {
     });
   });
 });
+
+} // fin window.onload
