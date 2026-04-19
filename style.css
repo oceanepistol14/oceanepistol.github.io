@@ -27,11 +27,15 @@ body {
 
 .logo-entreprise {
   width: 150px;
+  mix-blend-mode: multiply;
 }
 
 .header {
   padding: 20px;
   animation: apparition 0.6s ease forwards;
+
+.gauche {
+  animation: apparition 0.6s ease 0.2s forwards;
 }
 
 .carte {
@@ -43,7 +47,7 @@ body {
   box-shadow: 0 10px 40px rgba(0,0,0,0.4);
   margin: 40px;
   min-height: 500px;
-  animation: apparition 0.11s ease 0.7s forwards;
+  animation: apparition 0.6s ease 0.4s forwards;
 }
 
 .avatar {
@@ -75,13 +79,13 @@ h1 {
   flex-direction: column;
   gap: 0.8rem;
   align-items: flex-end;
-  animation: apparition 0.11s ease 0.11s forwards;
+  animation: apparition 0.6s ease 0.6s forwards;
 }
 
 .droite a {
   display: block;
   background: white;
-  color: #000000;
+  color: #d4af37;
   padding: 0.5rem 2rem;
   border-radius: 20px;
   text-decoration: none;
