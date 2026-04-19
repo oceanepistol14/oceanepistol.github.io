@@ -6,7 +6,7 @@ function ecrireLettre(element, texte, callback) {
   let i = 0;
   element.style.opacity = 1;
   const interval = setInterval(() => {
-    element.textContent += texte[i];
+    element.innerHTML += texte[i];
     i++;
     if (i >= texte.length) {
       clearInterval(interval);
