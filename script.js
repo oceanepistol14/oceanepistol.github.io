@@ -25,6 +25,9 @@ function ecrireLettre(element, texte, callback) {
 
  // 1. Logo
  afficher(logo, () => {
+  phraseEl.style.opacity = 0;
+  phraseEl.classList.remove('cache');
+  ecrireLettre(phraseEl, phrase, () => {
     // 3. Carte
     afficher(carte, () => {
         //4. boutons un par un 
