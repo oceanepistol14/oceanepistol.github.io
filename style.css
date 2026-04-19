@@ -38,6 +38,7 @@ body {
   animation: apparition 0.6s ease forwards;
 }
 .gauche {
+  font-size: 4rem;
   animation: apparition 0.6s ease 0.2s forwards;
 }
 
