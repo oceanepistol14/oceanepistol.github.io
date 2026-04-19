@@ -36,7 +36,7 @@ function ecrireLettre(element, texte, callback) {
             setTimeout(() => {
               btn.classList.remove('cache');
             }, i * 300);
-         })
-      })
-   })
-})
+         });
+      });
+   });
+});
