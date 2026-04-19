@@ -47,7 +47,7 @@ body {
   padding: 50px;
   border-radius: 50px;
   max-width: 500px;
-  box-shadow: 0 10px 40px rgba(0,0,0,0.4);
+  box-shadow: 0 10px 40px rgba(0,0,0,0.6);
   margin: 40px;
   min-height: 500px;
   animation: apparition 0.6s ease 0.4s forwards;
