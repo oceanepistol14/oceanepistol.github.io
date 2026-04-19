@@ -110,5 +110,21 @@ h1 {
 .cache {
   opacity: 0;
 }
+@media (max-width: 768px) {
+  .layout {
+    grid-template-columns: 1fr;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .droite {
+    align-items: center;
+  }
+
+  .gauche {
+    text-align: center;
+  }
+}
+
 
 
