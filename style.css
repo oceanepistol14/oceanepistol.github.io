@@ -61,6 +61,11 @@ body {
   object-fit: cover;
 }
 
+.intitulé {
+  font-size: 3rem;
+  margin: 0.5rem 0;
+  color: black;
+  
 .nom {
   font-size: 3rem;
   font-weight: 700;
