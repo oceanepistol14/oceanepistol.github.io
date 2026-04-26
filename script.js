@@ -37,4 +37,4 @@ afficher(logo, () => {
   });
 });
 
-} // fin window.onload
+}
