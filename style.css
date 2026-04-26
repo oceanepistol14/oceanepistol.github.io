@@ -61,11 +61,12 @@ body {
   object-fit: cover;
 }
 
-.p{
+.p {
   font-size: 5rem;
   margin: 0.5rem 0;
   color: black;
-  
+}
+
 .nom {
   font-size: 2rem;
   font-weight: 700;
