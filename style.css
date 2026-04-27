@@ -65,13 +65,13 @@ body {
 .nom {
   font-size: 2rem;
   font-weight: 700;
-  color: black;
+  color: white;
 }
 
 h1 {
   font-size: 1.8rem;
   margin: 0.5rem 0;
-  color: black;
+  color: white;
 }
 
 .carte p {
