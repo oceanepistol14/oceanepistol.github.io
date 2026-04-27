@@ -48,10 +48,10 @@ body {
   background: #e8d5f5;
   padding: 30px;
   border-radius: 30px;
-  max-width: 500px;
+  max-width: 400px;
   box-shadow: 0 10px 40px rgba(0,0,0,0.6);
   margin: 40px;
-  min-height: 500px;
+  min-height: 400px;
   animation: apparition 0.6s ease 0.4s forwards;
 }
 
