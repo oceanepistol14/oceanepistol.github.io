@@ -40,6 +40,7 @@ body {
 .gauche {
   font-size: 2rem;
   animation: apparition 0.6s ease 0.2s forwards;
+  color: white;
 }
 
 .carte {
